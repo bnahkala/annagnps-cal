@@ -8,4 +8,4 @@ Calibration is performed by calculating NSE, PBIAS, R2, and RSR for water volume
 
 Methods used in upcoming technical memo, to be submitted to Applied Engineering in Agriculture. Methods and models further used to calibrate baseline models and alternative management scenarios for thesis and publication work. 
 
-Nahkala, B. A. (2020). Watershed modeling and random forest flood risk classification of farmed prairie potholes. ISU Digital Repository. 19114. 
+Nahkala, B. A. (2020). Watershed modeling and random forest flood risk classification of farmed prairie potholes. Master's Thesis. ISU Digital Repository. 19114. 
