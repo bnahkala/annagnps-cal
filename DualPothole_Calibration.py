@@ -6,9 +6,11 @@
 # statistical params while utlizing the package 'hydroeval.'
 # 
 # This version inefficiently processes multiple potholes in a
-# singular model. This could be rewritten to strip the existing
+# singular AnnAGNPS model. This could be rewritten to strip the existing
 # wetland data file and automatically run how many wetlands 
 # were needed. 
+# 
+# See volume_calibration.py for more heavily commented code. 
 # 
 # =============================================================
 
